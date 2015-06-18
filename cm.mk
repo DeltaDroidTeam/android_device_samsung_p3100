@@ -45,3 +45,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=espressorf \
     BUILD_FINGERPRINT="samsung/espressorfxx/espressorf:4.2.2/JDQ39/P3100XWDNA1:user/release-keys" \
     PRIVATE_BUILD_DESC="espressorfxx-user 4.2.2 JDQ39 P3100XWDNA1 release-keys"
+    PRODUCT_BOOTLOADER="P3100DXDMD1"
